@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+
+<BODY BGCOLOR="TAN">
+
+<style>{
+  font-family: Verdana </style>
+
+<H1><FONT COLOR="black"></H1>
+
+<H1><FONT COLOR=white</H1>
+
+</BODY>
+
+</HTML>
+
+<style>
+h1 {
+  font-size: 30px
+}
+
+h2 {
+  font-size: 30px
+}
+
+p {
+  font-size: 20px
+}
+</style>
+
+
+<style>
+/* Style the body */
+body {
+  font-family: Arial;
+  margin: 0
+}
+
+/* Header/Logo Title */
+.header {
+  padding: 60px;
+  text-align: center;
+  background: black;
+  color: white;
+  font-size: 30px
+}
+
+/* Page Content */
+.content {padding:20px}
+</style>
+</head>
+<body>
+
+<html>
+<center><style>
+ul {
+  list-style-type:none
+  margin: 0;
+  padding: 0
+}
+</style>
+</head>
+<body>
+
+
+<ul>
+  <li><a href="#home">Home</a></li>
+  <li><a href="#music">Music</a></li>
+  <li><a href="#news">News</a></li>
+</ul>
+
+</body>
+</html>
